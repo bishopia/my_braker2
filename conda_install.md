@@ -27,6 +27,13 @@ braker.pl -h
 
 ## install genemark
 
+find a good place for it
+```
+cd ~/data/software
+mkdir genemark
+cd genemark
+```
+
 get files from http://exon.gatech.edu/GeneMark/license_download.cgi
 ```
 wget http://topaz.gatech.edu/GeneMark/tmp/GMtool_f4y2e/gm_key_64.gz
